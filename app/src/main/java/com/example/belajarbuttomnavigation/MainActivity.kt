@@ -3,9 +3,9 @@ package com.example.belajarbuttomnavigation
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.FragmentTransaction
-import com.example.belajarbuttomnavigation.FragmentNav.HomeFragment
-import com.example.belajarbuttomnavigation.FragmentNav.KategoriFragment
-import com.example.belajarbuttomnavigation.FragmentNav.ProfileFragment
+import com.example.belajarbuttomnavigation.FragmentBottomNav.HomeFragment
+import com.example.belajarbuttomnavigation.FragmentBottomNav.KategoriFragment
+import com.example.belajarbuttomnavigation.FragmentBottomNav.ProfileFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
